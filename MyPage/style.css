@@ -1,1 +1,11 @@
 
+.container-fluid
+    { background-color: silver; padding: 0 90px;}
+.bg1
+    { background: blue ;}
+
+.bg2
+    { background: red;}
+
+.carousel-inner > .item > img
+    { width: 75%; margin: auto;}
